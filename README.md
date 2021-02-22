@@ -1,2 +1,2 @@
 # pongv1
-Just a simple pong game mady with pygame
+Just a simple pong game made with pygame
